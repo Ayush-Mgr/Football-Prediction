@@ -90,10 +90,7 @@ pip install soccerdata pandas numpy matplotlib seaborn scikit-learn imbalanced-l
 - [soccerdata Documentation](https://soccerdata.readthedocs.io/) – Python library for accessing football data from multiple sources.
 - [Understat API Info](https://understat.com/) – Public football stats website (used via `soccerdata`).
 - [scikit-learn Documentation](https://scikit-learn.org/stable/) – Machine learning library for model training and prediction.
-- [imbalanced-learn Documentation](https://imbalanced-learn.org/stable/) – Tools for handling imbalanced datasets.
-- [pandas Documentation](https://pandas.pydata.org/docs/) – Data manipulation and analysis.
-- [matplotlib Documentation](https://matplotlib.org/stable/contents.html) – Data visualization.
-- [seaborn Documentation](https://seaborn.pydata.org/) – Statistical data visualization.
+
 ---
 ## 📜 License
 This project is open-source and available under the MIT License.
